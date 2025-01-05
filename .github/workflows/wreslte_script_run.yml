@@ -1,8 +1,8 @@
 name: Run Post Historical Wrestling Facts Bot
 
 on:
-  schedule:
-    - cron: '12 18 * * *'
+ schedule:
+    - cron: '18 17 * * *'
 
 jobs:
   build:
